@@ -1,0 +1,7 @@
+name: CustomTeleport
+version: ${project.version}
+main: lol.hyper.customteleport.CustomTeleport
+api-version: 1.16
+commands:
+  tp:
+    description: Teleport a player.
